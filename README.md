@@ -3,7 +3,7 @@ simplerl is a package of deep reinforcement learning (RL) algorithms using PyTor
 
 To illustrate simplerl usage and benchmark the different agents, each agent undergoes one or more tests on OpenAI Gym's Lunar Lander environments. This is a challenging enough task where traditional RL algorithms struggle, but simple enough that an agent can be trained on a CPU in a reasonable amount of time. Check out the iPython Notebooks for additional details.
 
-## Development
+## Development Roadmap
 Since this package is still in its infancy, there are many items on development roadmap, including:
 1. Distributional DQNs (C51 and QR-DQN)
 2. Distributional critics for actor-critic algorithms
