@@ -12,8 +12,9 @@ Since this package is still in its infancy, there are many items on development 
 5. Recurrent network support (maybe!)
 
 ## Requirements
-Name                      Version       Notes  
-cloudpickle               1.2.2         
-gym                       0.15.3        For the Lunar Lander tests
-numpy                     1.16.5
-pytorch                   1.3.0
+| Name            | Version   | Notes                       |
+|-----------------|-----------|-----------------------------|
+| cloudpickle     | 1.2.2     |                             |
+| gym             | 0.15.3    | For the Lunar Lander tests  |
+| numpy           | 1.16.5    |                             |
+| pytorch         | 1.3.0     |                             |
