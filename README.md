@@ -7,7 +7,7 @@ To illustrate simplerl usage and benchmark the different agents, each agent unde
 Since this package is still in its infancy, there are many items on development roadmap, including:
 1. Distributional DQNs (C51 and QR-DQN)
 2. Distributional critics for actor-critic algorithms
-3. A2C (simplerl uses multiprocessing for distributed training, but does not currently support asynchronous architectures)
+3. A2C (simplerl uses multiprocessing for distributed training, but does not currently support asynchronous architectures so no A3C)
 4. PPO
 5. Recurrent network support (maybe!)
 
