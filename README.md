@@ -10,6 +10,7 @@ Since this package is still in its infancy, there are many items on development 
 3. A2C (simplerl uses multiprocessing for distributed training, but does not currently support asynchronous architectures so no A3C)
 4. PPO
 5. Recurrent network support (maybe!)
+6. More documentation!
 
 ## Requirements
 | Name            | Version   | Notes                       |
